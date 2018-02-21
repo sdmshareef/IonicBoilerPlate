@@ -1,0 +1,4 @@
+#Tue Feb 20 19:48:14 IST 2018
+base.0=/home/shareef/FissionLabs/Projects/Ionic/trackMe/platforms/android/app/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/home/shareef/FissionLabs/Projects/Ionic/trackMe/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex
